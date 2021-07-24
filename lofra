@@ -1,13 +1,7 @@
-#EXTM3U#EXTINF:-1 tvg-id="MazhavilManoramaHD.in" tvg-name="Mazhavil Manorama HD" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/xCHQrH0.png" group-title="Entertainment",Mazhavil Manorama HD
-http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/index.m3u8
-#EXTINF:-1 tvg-id="KaumudyTV.in" tvg-name="Kaumudy TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="http://kaumudy.tv/images/logo.jpg" group-title="Entertainment",Kaumudy TV
+#EXTM3U#EXTINF:-1 tvg-id="KaumudyTV.in" tvg-name="Kaumudy TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="http://kaumudy.tv/images/logo.jpg" group-title="Entertainment",Kaumudy TV
 https://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8
 #EXTINF:-1 tvg-id="3TamilTV.in" tvg-name="3 Tamil TV" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/WfAU7pB.png" group-title="Entertainment",3 Tamil TV
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:-1 tvg-id="FlowersTV.in" tvg-name="Flowers TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="http://www.flowerstv.in/wp-content/uploads/2017/12/Flowers-Logo-alpha-1.png" group-title="Entertainment",Flowers TV
-http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
-#EXTINF:-1 tvg-id="KappaTV.in" tvg-name="Kappa TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/MkfPo1V.jpg" group-title="Lifestyle",Kappa TV
-http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
 #EXTINF:-1 tvg-id="AndFlix.in" tvg-name="&Flix" tvg-country="IN" tvg-language="" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF:-1 tvg-id="AndPictures.in" tvg-name="&Pictures" tvg-country="SAS" tvg-language="" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="Movies",&Pictures
