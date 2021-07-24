@@ -3,6 +3,8 @@
 http://cinesoft.vo.llnwd.net/e6/Live_Origin/smil:safari.smil/playlist.m3u8
 #EXTINF:-1,Flowers
 http://nwk2-lh.akamaihd.net/i/us2_flowers@315600/master.m3u8
+#EXTINF:-1 tvg-id="KappaTV.in" tvg-name="Kappa TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/MkfPo1V.jpg" group-title="Lifestyle",Kappa TV (576p)
+http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
 #EXTINF:-1,Asianet
 http://amiptv-fs.5centscdn.com/amsqasianet/asianetlive.stream/playlist.m3u8
 #EXTINF:-1,AsianetMovies
