@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,Asianet
+http://amiptv-fs.5centscdn.com/amsqasianet/asianetlive.stream/playlist.m3u8
+#EXTINF:-1,AsianetMovies
+http://amiptv-fs.5centscdn.com/amsqasianetmovies/fba00c54e72e8233356953a3f957a23d.stream/playlist.m3u8
+#EXTINF:-1,Flowers
+http://nwk2-lh.akamaihd.net/i/us2_flowers@315600/master.m3u8
+#EXTINF:-1,FlowersInternational
+http://cinesoft.vo.llnwd.net/e6/Live_Origin/smil:flowersinternational.smil/chunklist.m3u8
+#EXTINF:-1,KiranTV
+http://live.nwk3.yupptv.tv/nwk3/smil:kirantv.smil/playlist.m3u8
+#EXTINF:-1,MazhavilManoramaHD
+http://amiptv-fs.5centscdn.com/amsqmazhavil/mazhavillive.stream/playlist.m3u8
